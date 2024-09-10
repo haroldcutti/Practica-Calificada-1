@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1047724-81DC-4264-967C-303BA977EFC1}|Examen\\Examen.csproj|c:\\users\\alumno\\source\\repos\\examen\\examen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1047724-81DC-4264-967C-303BA977EFC1}|Examen\\Examen.csproj|solutionrelative:examen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1047724-81DC-4264-967C-303BA977EFC1}|Examen\\Examen.csproj|c:\\users\\alumno\\source\\repos\\examen\\examen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1047724-81DC-4264-967C-303BA977EFC1}|Examen\\Examen.csproj|solutionrelative:examen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1047724-81DC-4264-967C-303BA977EFC1}|Examen\\Examen.csproj|c:\\users\\alumno\\source\\repos\\examen\\examen\\examen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1047724-81DC-4264-967C-303BA977EFC1}|Examen\\Examen.csproj|solutionrelative:examen\\examen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Examen",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Examen\\Examen\\Examen.csproj",
+              "RelativeDocumentMoniker": "Examen\\Examen.csproj",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Examen\\Examen\\Examen.csproj",
+              "RelativeToolTip": "Examen\\Examen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T22:41:39.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Examen\\Examen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Examen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Examen\\Examen\\MainWindow.xaml",
+              "RelativeToolTip": "Examen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-10T22:31:59.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Examen\\Examen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Examen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Examen\\Examen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Examen\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:31:57.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
